@@ -24,7 +24,9 @@
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📊 Stats
+---
+
+### Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sinskiy&show_icons=true&theme=vue-dark)
 
