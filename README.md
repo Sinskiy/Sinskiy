@@ -50,6 +50,7 @@
 ### Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20)
+</br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20)
 
 <details>
