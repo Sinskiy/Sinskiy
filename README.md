@@ -8,50 +8,11 @@
       <a href="https://github.com/Sinskiyt?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sinskiy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
----
-
-### Languages and Tools
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="30px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
-</a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-      <img  alt="Svelte" height="30px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
- </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- </a>
- <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="тзь" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
- </a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
- </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
- </a>
-<br />
-
 ---
 
 ### Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20)
-
-</br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20&margin_left=10)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20)
 
