@@ -12,7 +12,7 @@
 
 ### Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20&margin_left=10)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinskiy&show_icons=true&theme=vue-dark&border_radius=20)
 
