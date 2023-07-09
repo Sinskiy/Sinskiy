@@ -20,4 +20,4 @@ Also I want to try&nbsp;&nbsp;<img height="32" width="32" title="Astro" src="htt
 - Discord: @sinskiy_
 
 
-![My github stats](https://github-readme-stats-git-master-sinskiy.vercel.app/api?username=sinskiy&show_icons=true&theme=chartreuse-dark&&bg_color=ffffff00&hide_border=true)
+![My github stats](https://github-readme-stats-git-master-sinskiy.vercel.app/api?username=sinskiy&show_icons=true&theme=chartreuse-dark&&bg_color=ffffff00&hide_border=true&include_all_commits=true)
