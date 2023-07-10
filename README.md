@@ -6,7 +6,7 @@
 
 I build my projects with&nbsp;&nbsp;<img height="32" width="32" title="JavaScript" src="https://cdn.simpleicons.org/javascript" />&nbsp;&nbsp;or&nbsp;&nbsp;<img height="32" width="32" title="Svelte" src="https://cdn.simpleicons.org/svelte" />
 
-Familiar with&nbsp;&nbsp;<img height="32" width="32" title="C" src="https://cdn.simpleicons.org/c" />&nbsp;&nbsp;,&nbsp;&nbsp;<img height="32" width="32" title="SQL" src="https://cdn.simpleicons.org/sqlite/gray" /> (SQL)&nbsp;&nbsp;and&nbsp;&nbsp;<img height="32" width="32" title="Python" src="https://cdn.simpleicons.org/python" /> via Harvard CS50x, and&nbsp;&nbsp;<img height="32" width="32" title="Mongodb" src="https://cdn.simpleicons.org/mongodb" />
+Familiar with&nbsp;&nbsp;<img height="32" width="32" title="C" src="https://cdn.simpleicons.org/c" />&nbsp;&nbsp;,&nbsp;&nbsp;<img height="32" width="32" title="SQL" src="https://cdn.simpleicons.org/sqlite/gray" /> (SQL)&nbsp;&nbsp;,&nbsp;&nbsp;<img height="32" width="32" title="Python" src="https://cdn.simpleicons.org/python" />,&nbsp;&nbsp;and&nbsp;&nbsp;<img height="32" width="32" title="Mongodb" src="https://cdn.simpleicons.org/mongodb" />
 
 I want to learn&nbsp;&nbsp;<img height="32" width="32" title="Node.js" src="https://cdn.simpleicons.org/node.js" />&nbsp;&nbsp;to build desktop apps with&nbsp;&nbsp;<img height="32" width="32" title="Electron" src="https://cdn.simpleicons.org/electron" />&nbsp;&nbsp;and create&nbsp;&nbsp;<img height="32" width="32" title="Discord" src="https://cdn.simpleicons.org/discord" />&nbsp;&nbsp;bots
 
